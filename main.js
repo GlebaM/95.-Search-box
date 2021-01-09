@@ -13,6 +13,8 @@
 // //  forEach
 // arr.forEach((number, index) => arr[index] = number*2);
 
+
+// Wyszukiwarka i lista
 const input = document.querySelector('input');
 const ul = document.querySelector('ul');
 const liElements = document.querySelectorAll('li');
